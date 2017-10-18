@@ -1,0 +1,22 @@
+Author: Suraj Ketan Samal
+LastUpdated: Oct 20,2015
+
+BUILDING THE PROGRAM
+   user@host> ant
+		OR
+	      "ant build" followed by "ant dist"
+RUNNING THE PROGRAM
+   java -jar cryptoanalysis.jar <n>
+  	where n = 
+       	1. CipherText001 (Problem 4a)
+		2. CipherText002 (Problem 4b)
+		3. CipherText003 (Problem 5)
+		4. Garbled Decryption (Problem 6)
+		5. badKeys.txt (Problem 7)
+   Example:
+     user@host> java cryptoanalysis.jar 1
+
+OTHER OPTIONS
+    user@host> ant clean  --> To clean the build directory.
+    user@host> ant test   --> Basic test and display usage.
+    user@host> ant zipsrc --> Archive this program to a zip file.

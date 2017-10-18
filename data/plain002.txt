@@ -1,0 +1,1634 @@
+e :389263491409977986099492708162379040578860053202851003849443831378701
+n :679372223375244767426661823611571709377236531593801193332198472747214909
+p :780535675704985143085937429075336653
+q :870392276127072787672802596403119153
+d :217428582816700655045178675438500694215051455783402454692425822854200325
+
+PlainText:
+
+Twilight of the Superheroes
+
+The Interminable Ramble
+
+An unpublished series proposal for DC Comics by Alan Moore
+The Introduction
+Okay... I'm sure this is going to be an interminable ramble as these 
+things usually are, but I first want to set down my thoughts on the 
+whole idea of mass crossovers, partly in response to Paul's letter on 
+the subject and partly just to clarify my thinking for myself. 
+Hopefully, somewhere along the line you might catch a glimpse of some 
+of the logic behind the story outline that follows and will thus be 
+able to make a little more sense of my reasons for doing that way.
+Firstly, as I see the commercial side, taking into account what Paul 
+was kind enough to pass on to me, the perfect mass crossover would be 
+something like the following: it would have a sensible and logical 
+reason for crossing over with other titles, so that the readers who 
+were prompted to try a new title as a result of the crossover or vice 
+versa didn't feel cheated by some tenuous linkage of storylines that 
+was at best spurious and at worst nonexistent. It would provide a 
+strong and resonant springboard from which to launch a number of new 
+series or with which to revitalize old ones again in a manner that was 
+not obviously crassly exploitative so as to insult the reader's 
+intelligence. With an eye to the merchandising that Marvel managed to 
+spin out of Secret Wars, I think it's safe to assume that if it were 
+possible to credibly spin role playing games, toys, "Waiting for 
+Twilight" posters and T-shirts and badges and all the rest of that 
+stuff from the title, then that would be a good idea too. Ideally, it 
+might even be possible, while appealing to the diehard superhero 
+junkie, to produce a central story idea simple, powerful and resonant 
+enough to bear translation to other media. I mean, I know that I'm 
+probably still intoxicated by the Watchmen deal, but it never hurts to 
+allow for these things as a possibility, does it?
+
+Okay, so assuming that the above is an accurate summary of what, 
+ideally, DC would like to see happen with the title commercially, then 
+I'll go onto tackle the other pertinent areas of concern with an eye to 
+that and then hopefully tie the whole lot together at the end before 
+moving on to the actual plot outline. If I don't manage that and just 
+forget and wander off at a tangent or something then I'm afraid I'll 
+have to ask you to bear with me. As long as I don't start 
+free-associating about my childhood then we should be okay. The first 
+of these other pertinent areas relates to the effect of the storyline 
+in question upon the DC Universe itself, and in response to this I 
+figure that perhaps I ought to outline briefly my thoughts upon 
+crossovers of this magnitude in general.
+
+For one thing, they require some very hard thinking about in advance if 
+they're not going to generate more problems than they solve, and in 
+thinking about something which will affect every book that the company 
+publishes, if only in subtle ways, then one obviously has to be very 
+careful. I should say that as yet, although I saw the outlines I 
+haven't read any of the Legends series or its crossovers, mainly by 
+reason of not having got out to a comic shop recently. The premise, if 
+I understand it correctly, looked very good: it seemed to be attempting 
+to give a sort of resonant mythic context to the DC pantheon while at 
+the same time establishing a more vigorous social context for the 
+assembled characters in terms of its storyline, thus drawing the whole 
+DC continuity together into an interesting whole, which is exactly what 
+needs doing in the wake of the Crisis. The more we can reinforce the 
+idea of the DC Universe as a magical and fascinating concept in itself, 
+assuming that those are our aims, then the more successful we'll be in 
+keeping readers hooked upon that universe and on the books that 
+chronicle its various phenomena.
+
+Of course, this approach isn't without its problems. If you don't do it 
+right, if your assembled multitude of characters look merely banal, 
+which I personally believe happened with Secret Wars (although that may 
+be mere personal prejudice on my part), then your entire continuity is 
+cheapened in the long term along with its credibility, whatever the 
+short term benefits in terms of sales might be. When this happens, your 
+only recourse is to greater acts of debasement in order to attract 
+reader attention, more deaths to appease the arena crowd element in the 
+fan marketplace, eventually degenerating into a geek show.
+
+Then there are the unintentional injuries in internal logic that can be 
+unwittingly inflicted upon the mass continuity by such a venture, 
+whatever the individual merits of the creators or their efforts, purely 
+by the vast organizational problems that a project of this size seems 
+to encounter. To explain what I mean, I should perhaps look at a series 
+that I have read, that being Marv and George's excellent Crisis on 
+Infinite Earths. Although the motive was pure and the aim true with 
+regard to Crisis, I can't help feeling that somewhere along the line, 
+in the attempt to consolidate and rationalize the DC Cosmos, a 
+situation even more potentially destabilizing and precarious was 
+created. Instead of a parallel Earth cosmology that was, if the reader 
+was sensible enough to overlook obvious discrepancies as what they were 
+(i.e. simple mistakes), relatively easy to understand, in the wake of 
+Crisis and related seismic impacts upon the continuity such as John 
+Byrne's new Superman books we have a situation far less defined and 
+precise. In the wake of the time-altering at the end of the Crisis we 
+are left with a universe where the entire past continuity of DC, for 
+the most part, simply never happened. While I understand that Paul is 
+attempting to sort out the Legion/Superboy problems over in LSH at the 
+moment, and that other writers are tackling similar discrepancies, the 
+fact remains that by far the larger part of DC's continuity will simply 
+have to be scrapped and consigned to one of Orwell's memory holes along 
+with a large amount of characters who, more than simply being dead, are 
+now unpeople.
+
+I believe this is dangerous for a couple of reasons. Firstly, by 
+establishing the precedent of altering time, you are establishing an 
+unconscious context for all stories that take place in the future, as 
+well as for those which took place (or rather didn't take place) in the 
+past. The readers of long standing, somewhere along the line, are going 
+to have some slight feeling that all the stories that they followed 
+avidly during their years of involvement with the book have been in 
+some way invalidated, that all those countless plotlines weren't 
+leading to anything more than what is in some respects an arbitrary 
+cut-off point. By extension, the readers of today might well be left 
+with the sensation that the stories they are currently reading are of 
+less significance or moment because, after all, at some point ten years 
+in the future some comic book omnipotent, be it an editor or the 
+Spectre, can go back in time and erase the whole slate, ready to start 
+again. I myself felt something similar at the end of the first Superman 
+film, when he turns time back to save Lois. It ruined the small but 
+genuine enjoyment that I'd got from that first movie and destroyed all 
+credibility for any of the following sequels as far as I was concerned.
+
+I know that the average eight year old reader in the street is not 
+thinking these things consciously while buying his monthly batch of 
+titles. Probably the average seventeen or twenty five year old reader 
+isn't either, although that's more open to debate. My point is that the 
+large and largely incomprehensible tides of public favor or dismissal 
+that determine the success of a title are often influenced by very 
+subtle things far below the waterline. I don't think it's too 
+high-faluting to assume, for example, that the current success of the 
+Teenage Superhero Group book has more than a little to do with the 
+current massive sense of instability pervading our culture, especially 
+with respect to instabilities in the family structure. I firmly believe 
+that both this and the current seeming obsession with a strict formal 
+continuity are some sort of broad response from an audience whose 
+actual lives are spent living in a continuity far more uncertain and 
+complex than anything ever envisaged by a comic book. I believe that 
+one of the things that the comic fan is looking for in his multi-title 
+crossover epics is some sense of a sanely ordered cosmos not offered to 
+him or her by the news headlines or the arguments of their parents over 
+breakfast.
+
+That isn't to say that it's healthy or necessarily desirable to fulfill 
+this fundamentally escapist sort of urge. I myself would feel 
+uncomfortable if the imaginary reality I was offering my readers was 
+intended as a pacifier rather than as something to make them think 
+about their own reality. I'd cite Watchmen as an example of how it's 
+possible to fulfill the requirements of a continuity much more strict 
+and rigidly defined than is usual while still making some sort of 
+relevant point, hopefully, about the real world that the book's readers 
+are living in.
+
+Attendant to this, there are a number of people in the industry (and in 
+my opinion they have a good case even if I'm undecided about the right 
+means to carry it off) who feel that it's time to break down the 
+continuity and try to get rid of a lot of the rather anal and obsessive 
+attitudes that have been allowed to dominate the marketplace and to 
+some degree have hindered it in its periodic attempts to be taken 
+seriously. I suppose a shining example of this would be Frank's Dark 
+Knight, which, while it doesn't seem bothered about fitting into any 
+graven-in-stone continuity, does service to the legend of Batman and 
+brilliantly redefines the character for an eighties audience, and 
+nobody really seems to care much how this all fits into the continuity 
+because it's such a bloody good story. Will Jason Todd really die? Will 
+all the superheroes leave Earth to Superman and his government pals? 
+Will Oliver Queen really get his arm burned off at the elbow in a fight 
+with Clark Kent and become an embittered urban terrorist? Who cares?
+
+The readers seem quite capable of accepting that this may or may not 
+happen in the future, without getting worked up and starting to chew 
+through their own arms over how the idea of alternate possible futures 
+fits in with the Crisis idea that there is only one timestream with no 
+possibility of alternate pasts, presents or futures.
+
+Okay... so on one hand we have an audience thirsty for the stability 
+that an ordered continuity gives them, and on the other hand we have 
+good creative reasons for throwing continuity to the winds altogether. 
+Is there any way that these two apparently conflicting notions can both 
+be accomplished at once? Yes, I believe there is. I think it is 
+possible to create a limited run series that would embrace both these 
+attitudes comfortably and fulfill all the other requirements that we've 
+gone over concerning crossovers of this type before. I think we could 
+come up with a story that, like Legends, casts new light upon all the 
+DC characters, and yet does no violence to however their creators and 
+current creative teams are handling them in their own titles. Something 
+that pulls together the threads of the DC Universe in an interesting 
+and revealing way, while at the same time remaining simple enough in 
+construction so that the chances for any screw-ups in the crossover 
+continuity are diminished or avoided altogether.
+This last point is important. Looking at the practicalities of the 
+situation with the insight that Crisis has afforded us, it is possible 
+to see the various practical problems which have emerged and which are 
+unlikely to be solved by vigorous debating between the parties or sides 
+involved. Firstly, there will almost certainly be some writers or 
+artists who do not really want to involve their stories with the 
+crossover, whether they say so or not. Making them "toe the line" if 
+they're vocal about it or taking comfort from the fact that most 
+people, even if they don't like the idea, will go along with it for the 
+sake of a quiet life clearly isn't practical when you're dealing with 
+writers and artists. If they aren't motivated by an idea, while it is 
+theoretically possible to force them to adapt to it, it isn't possible 
+to ensure that you'll get better than a mediocre story out of them, 
+thus cheapening the whole overall concept to some degree. It seems to 
+me much more workable to come up with a concept by means of which 
+whatever individual writers choose to do or not to do in their own 
+books will have relevance to the crossover, whether they necessarily 
+intend it to or not. If they choose to involve themselves actively in 
+the crossover, then that's fine. If they refuse to do so, then the very 
+act of refusing to do anything about the crossover also becomes part of 
+the overall storyline, without doing any violence to the continuity of 
+the books involved at all. If the mechanics of how all this is to be 
+achieved seem a little far fetched at this stage then I'd ask you to 
+bear with me until after the story outline, at which point I'll attempt 
+to demonstrate how the outline fulfills the various criteria that I'm 
+defining here, including the next pertinent area on our agenda after 
+the demands of commerce and continuity have been covered, this being 
+the purely creative opportunities and pitfalls involved.
+
+Creatively, there is an immediate aesthetic problem in the multi-title 
+crossover in that, baldly put, it is very easy to strain the 
+credibility of the entire universe by putting certain characters next 
+to each other. Swamp Thing and Blue Devil spring immediately to mind, 
+or Sgt. Rock and The Legion of Super-Heroes. In such juxtapositions, 
+the flawed seams of the illusion of unity that we're trying to create 
+become most apparent, and some thought should be given to a way of 
+avoiding this distracting effect. There is also the very real 
+possibility that any storyline involving so many characters in more 
+than a superficial fashion is going to degenerate into incoherence and 
+gibberish, becoming a sort of comic book babel of difficult-to-explain 
+powers and origins and characterizations topped off with a muddy cosmic 
+conclusion, some of which I feel that I certainly fell prey to in my 
+recent "Crisis in Heaven/American Gothic" conclusion in Swamp Thing and 
+am anxious to avoid repeating here.
+
+The creative plus side of the equation is more dependent upon the 
+tastes and leanings of the creative people involved, in this instance 
+myself and whoever we get to draw this thing and work with me on it. 
+For my part, speaking purely subjectively for the moment, what I'd like 
+to do creatively with the series, above and beyond the creative 
+satisfaction to me and in fulfilling all the criteria above, is to 
+create a storyline that lent the whole superhero phenomenon, the whole 
+cosmos and concept a context that was intensely mythic and we extracted 
+from the characters involved in it their last ounce of mythic 
+potential, aiming at coming up with something that cements the link 
+between superheroes and the Gods of legend by attempting something as 
+direct and resonant as the original legends themselves. One legend in 
+particular will be the main thematic drift of the storyline, this being 
+the Norse legend of Ragnarok, twilight of the Gods.
+
+The Storyline Itself
+
+Okay... assuming that six pages is enough for preliminaries, we'll now 
+move to a discussion of the storyline itself. Please bear in mind that 
+firstly, since the story has time travel as one of its central motifs, 
+it's often difficult to present events in a clear chronological 
+sequence without getting muddled, for which I apologize in advance. 
+Secondly, since I myself don't have all the fine details filled in 
+yet... unless those details occur to me over the course of this 
+writing, which often happens... then there are going to be a few areas 
+where the plot is maybe fuzzy or the storyline seems flatter and less 
+inspiring than the areas surrounding it. I hope these don't detract too 
+much from your enjoyment of the idea, since these will be things that 
+will be polished up to their final shine in the actual scripting. I'd 
+again cite Watchmen as an example of how much of this stuff only finds 
+its way in at the final draught stage and ask your indulgence wherever 
+necessary.
+To kick off, I should perhaps explain the overall structure of the 
+story, which, incidentally, I'm currently imagining as something in the 
+Watchmen format, twelve issues long, twenty-eight pages, no ads, 
+although these are just working assumptions and are certainly open to 
+alteration at this early stage.
+The story is structured so that there is a central "core-narrative" 
+which in this case is the tale of the Twilight of the Superheroes, 
+taking place at some point in the not too distant future, say twenty or 
+thirty years. Around this there is a sort of framing narrative, a 
+device which links these hypothetical future events with what is going 
+on in the DC continuity at present. This device provides the sort of 
+interface between the fairly self-contained story of Twilight and the 
+numerous fairly self-contained storylines and continuities of the DC 
+Cosmos, and it is achieved as follows: we have agents in the future who 
+have managed to send a message back to agents in the present day DC 
+continuity, urging them to warn the superhero community of the terrible 
+future that is possibly waiting for them, and to avoid it if at all 
+possible. (This is not without its own ambiguities, as we shall 
+hopefully see, but it provides for the moment the easiest conceptual 
+handle with which to grasp the mechanics of all this.) Thus, the agents 
+in the present set about reaching various superheroes in the present 
+and delivering the warning. Some of those who are warned heed the 
+warning, and make decisions in their current doings and lifestyles that 
+will hopefully avert what is to happen in the future, even though this 
+is by no means definite. Others will ignore the warning and carry on 
+with what they were doing, which of course has some relevance, even by 
+default, to the outcome of this horrific Gotterdummerung waiting in the 
+potential future. Some of the superheroes affected will perhaps not be 
+reached at all, and thus remain ignorant of the whole thing, although 
+this, too, obviously has relevance to the outcome of what will happen 
+in the future. I hope this makes it comprehensible how I hope to solve 
+the problem of writers/artists who don't really want to involve 
+themselves in the storyline: even if they choose to have their 
+characters remain oblivious to everything going on, or to ignore it, 
+their actions are having an implied relevance upon what is going on in 
+the crossover book while at the same time what happens in the crossover 
+book down the line in the future will be seen as having a direct 
+relevance to how those characters are perceived in their own books. 
+Knowing the fate of characters in even a potential future lends them a 
+sort of poignance which is very important and which I'll take a few 
+moments to discuss.
+
+As I mentioned in my introduction to Frank's Dark Knight, one of the 
+things that prevents superhero stories from ever attaining the status 
+of true modern myths or legends is that they are open ended. An 
+essential quality of a legend is that the events in it are clearly 
+defined in time; Robin Hood is driven to become an outlaw by the 
+injustices of King John and his minions. That is his origin. He meets 
+Little John, Friar Tuck and all the rest and forms the merry men. He 
+wins the tournament in disguise, he falls in love with Maid Marian and 
+thwarts the Sheriff of Nottingham. That is his career, including love 
+interest, Major Villains and the formation of a superhero group that he 
+is part of. He lives to see the return of Good King Richard and is 
+finally killed by a woman, firing a last arrow to mark the place where 
+he shall be buried. That is his resolution--you can apply the same 
+paradigm to King Arthur, Davy Crockett or Sherlock Holmes with equal 
+success. You cannot apply it to most comic book characters because, in 
+order to meet the commercial demands of a continuing series, they can 
+never have a resolution. Indeed, they find it difficult to embrace any 
+of the changes in life that the passage of time brings about for these 
+very same reasons, making them finally less than fully human as well as 
+falling far short of true myth.
+
+The reasons this all came up in the Dark Knight intro was that I felt 
+that Frank had managed to fulfill that requirement in terms of Superman 
+and Batman, giving us an image which, while perhaps not of their actual 
+deaths, showed up how they were at their endings, in their final years. 
+Whether this story will actually ever happen in terms of "real" 
+continuity is irrelevant: by providing a fitting and affective capstone 
+to the Batman legend it makes it just that... a legend rather than an 
+endlessly meandering continuity. It does no damage to the current 
+stories of Batman in the present, and indeed it does the opposite by 
+lending them a certain weight and power by implication and 
+association--every minor shift of attitude in the current Bruce Wayne's 
+approach to life that might be seen in Batman or Detective over the 
+next few years, whether intentionally or not, will provide twinges of 
+excitement for the fans who can perceive their contemporary Batman 
+inching ever closer to the intense and immortal giant portrayed in the 
+Dark Knight chronicles. It also provides a special poignance... while I 
+was doing some of the episodes of "Under the Hood" for the Watchmen 
+text backup and especially upon seeing Dave's mock-up photographs of 
+the Minutemen in their early, innocent days, I felt as if I'd touched 
+upon that sense of "look at them all being happy. They didn't know how 
+it would turn out" that one sometimes gets when looking at old 
+photographs. Dark Knight does this for the Batman to some degree, and 
+I'd like to try to do the same for the whole DC Cosmos in Twilight. I 
+feel that by providing a capstone of the type mentioned above, but one 
+which embraces the whole DC Universe rather than just a couple of its 
+heroes, I can lend a coherence and emotional weight to the notion of a 
+cohesive DC Universe, thus fulfilling the criteria set out in my 
+ramblings about the effect of all this on the idea of DC continuity as 
+mentioned above. Being set in a possible future, it does nothing that 
+cannot be undone, and yet at the same time has a real and tangible 
+effect upon the lives and activities of the various characters in their 
+own books and their own current continuities. At the same time, by 
+providing that capstone and setting the whole continuity into a 
+framework of complete and whole legend, as Frank did in Dark Knight, we 
+make the whole thing seem much more of a whole with a weight of 
+circumstance and history that might help to cement over any shakiness 
+left in the wake of Crisis and its ramifications. Even if we pull the 
+threads of these various characters' circumstances together at some 
+hypothetical point in the future, this does imply that there is a 
+logical pattern or framework for the whole DC Universe, even if the 
+resolution of the pattern is at a point thirty years in the 
+hypothetical future.
+
+This also fulfills the criteria that I outlined in my opening 
+paragraphs concerning the commercial application of the idea. The 
+framing device, which links the central story of Twilight to its 
+possible crossover points with the mainstream DC Universe, is 
+constructed so as to be detachable from the whole. While the whole 
+story presented in the actual comic will have cutaways to what is going 
+on in the present to show how the crossovers work, the main storyline 
+of Twilight will be working towards its resolution unimpeded. Thus, in 
+order to make the central storyline comprehensible to a wider audience 
+than the trivia-mesmerized hordes of comic fandom, the link with the 
+present can be ignored and effectively severed, leaving only a powerful 
+and simple central story idea, that of an apocalypse for superfolk 
+played out by warring factions against the fascinating backdrop of a 
+drastically altered future, with all the plotting, romance and intrigue 
+of one of those stirring historical dramas about warring factions 
+amongst the Medici or whatever. This central idea... that of a war and 
+all its spectacular ramifications, makes it ideal material for a role 
+playing game... perhaps the ultimate superhero role playing game. It 
+also lends itself nicely to a wide range of other spin-off projects, 
+including those in the toy soldier range. The apocalyptic mood of the 
+series, tied in with current preoccupations and encapsulated in a 
+phrase like the previously mentioned "Waiting for Twilight" could work 
+nicely with regard to the advertising campaign as well as giving us a 
+range of credible adult items such as badges, posters and T-shirts. The 
+storyline would hopefully be resonant enough to provide a good 
+springboard for new characters or revitalized old characters, and this 
+again would work seamlessly when it came to actually orchestrating all 
+this. A character who hasn't been seen yet... say Barbara Randall's 
+proposal for a female Flash... could be presented in Twilight as an old 
+established character who's been in the Justice League for years. When 
+the character appears on the newsstands in her own title some months 
+later, this should strike a suitably ominous resonance back to the 
+Twilight storyline; is it all coming true? Even if it doesn't all come 
+true in every detail, even if, say, she never joins the Justice League, 
+mightn't most of it come true? This is the sort of feedback effect that 
+I want to foster. In addition to that, any changes that writers have 
+planned for their characters in the future could be hinted at directly 
+as having happened in the past, so that when they actually happen in 
+the regular comic book, they have a meaning beyond that which they have 
+on the surface. Even if plans change and certain things don't 
+materialize as planned, then even that has its implications with regard 
+to the future proposed in Twilight, especially after certain key 
+ambiguities that will be introduced in the final issues of this 
+proposed crossover.
+
+I should also point out (if only to start a new paragraph... I just 
+noticed I didn't draw breath on the last page) that the fact that the 
+meat of Twilight's central storyline is detachable from the crossover 
+device means that should anyone see any potential in the ultimate 
+superhero movie, bearing in mind that DC currently own almost all of 
+the really important superhero icons imprinted on the mass 
+consciousness and could thus perhaps come up with something that 
+legitimately laid claim to that title, then it will be simple to detach 
+the central idea from the off-putting clutter of a massive continuity 
+such as would almost certainly alienate the average non comic fan 
+moviegoer. I'm talking about characters such as Superman, Batman, 
+Wonder Woman, the Marvel Family, Blackhawk, Plastic Man, the Shadow and 
+all the other truly classic and publicly recognizable characters that 
+DC are fortunate enough to have access to. Handled in the right way, 
+with the inclusion of these classic figures, the Twilight storyline 
+could be printed as a spectacular and epic finale to the whole 
+essential superhero dream. Like I say, anyway, it never hurts to 
+consider these angles, just in case.
+
+Okay, so now that the actual mechanics of this linking/framing device 
+have been discussed, perhaps it would help if I told you what they 
+actually are. Bear in mind that the details of this are subject to 
+change, as long as the overall idea is sound, since I'm not absolutely 
+sure about forthcoming events in the DC Universe that might invalidate 
+some of this. I'm confident there'll be a way around any such problems 
+anyway, so the following should still be fairly sound and useful.
+The first thing we do is to solve the paradox mentioned earlier, 
+concerning "Does Dark Knight really happen in the future?" and the 
+attendant schism between those who want a concrete universe and those 
+who want endless possibility free of the restrictions of a rigid 
+cross-title continuity. At the same time, I'd also like to put right 
+something that has bothered me since the resolution of Crisis, namely 
+the fact that I actually like parallel world stories and that a lot of 
+other creative people enjoy the freedom that gives them too. Some of 
+the better stories in DC's history have been those directly related to 
+the idea of alternate Earths (including Crisis itself, paradoxically 
+enough), and there are a lot of brilliant imaginary stories which 
+display the same urges and the same ideas at work, albeit outside 
+mainstream continuity. What I propose is something that would allow for 
+the possibility of alternate world stories as well as the possibility 
+of revisiting old discarded continuities that still have charm without 
+opening up the whole "Earth-One through -Fifteen" problem that prompted 
+the Crisis in the first place. It will also be an idea central to the 
+whole concept of this framing/linking device with which we connect the 
+events of Twilight with the current continuity. What I propose, 
+basically, is something like the following, subject to input by any 
+creative people with prior claims on the characters I'm suggesting, of 
+course...
+
+Firstly, I understand that there is to be some restriction upon time 
+travel in the revised post-Crisis continuity, which is all well and 
+good by me. To consolidate the importance of these restrictions and 
+their reverberations upon the various books that use time travel as a 
+motif, I suggest that, as an example, some members of the Legion of 
+Super-Heroes should volunteer for a reconnaissance mission exploring 
+the time stream and testing its new limits with regard to their 
+vehicles. Those Legionnaires might be selected for this that me and 
+Paul have agreed between us are appropriate. At the same time, in any 
+other books that might have time travel problems, it could be mentioned 
+in passing that from our own era, Professor Rip Hunter was currently 
+investigating the phenomenon in his time top.
+
+Okay... now if Paul and Karen and everybody else involved are amenable 
+to this, then I figure the next step is to introduce a scheme by the 
+Time Trapper. The Time Trapper, living up to his name, intends to set 
+up a sort of temporal fluke field in the timestream that will in effect 
+make time travel in or out of this area all but impossible, thus 
+trapping the Legionnaires who volunteered or were selected in the past, 
+unable to return. I suggest that the Legionnaires chosen should be some 
+that Paul is able to do without for a few months, and maybe those that 
+he'd like to see some changes made to. Like I say, these details can be 
+sorted out later. The Time Trapper is maybe planning to trap these 
+various Legionnaires in the past so that they cannot help prevent some 
+plot he is planning to devil the Legion with in the future and might 
+conceivably be useful as a plot springboard to Paul over in the 
+Legion's own book. The important thing in terms of Twilight is that the 
+Time Trapper successfully sets up his fluke field, which effectively 
+distorts a whole stretch of the timestream from, say, 1990 to the year 
+2010. With very few exceptions, nothing can get in or out of this Time 
+Tangle. Furthermore, as a result of an effect of the fluke field upon a 
+continuum already sorely abused during the reality-reordering of the 
+Crisis on Infinite Earths, within this bubble of fluke time, numerous 
+alternate realities again become possible, if only for a limited thirty 
+year stretch. Although we won't be exploring any of these realities 
+save for one in Twilight, the possibilities there for story ideas in 
+other books are limitless. Within the fluke, there are maybe worlds 
+where the imaginary stories happened: what would the world of Superman 
+Red/Superman Blue be like if you were to visit it twenty years on? Or 
+the world in "The Death of Superman". Is there a world perhaps like the 
+old Earth-Two or a world in which Dark Knight takes place? As well as 
+opening up a wealth of story possibilities without opening up the 
+attendant can of worms, it also provides a convenient trash bin for 
+every story that DC ever published that didn't fit in with the 
+continuity. Brother Power? It happened in the fluke. Prez? The fluke. 
+The Rainbow Batman? In the fluke. Because travel by people in the 
+mainstream continuities into the fluke zone of the timestream would be 
+presented as all but impossible except in exceptional circumstances, 
+the chance for the infinite number of maybe-worlds in the fluke to 
+spill over and damage the mainstream continuity would be minimal.
+
+Okay... so while the LSH volunteers are exploring the altered Post 
+Legends Timestream, the Time Trapper springs his ultimate Time Trap and 
+the fluke comes into existence. The group of Legionnaires find 
+themselves trapped upon an Earth, circa the year 2000, albeit only one 
+of the Earths A.D. 2000 that now exist in the flux. As a result of the 
+sudden moire effect rippling across the timestream from the fluke, any 
+time travelers in the timestream at the time of the flux coming into 
+operation (which, as we shall see later, poses an interesting little 
+subparadox) are drawn to the same point, trapped within the enclosed 
+multiple continuities of the flux. These include Rip Hunter and some 
+others who I'll detail later. They find themselves cut off from their 
+own times on a world in which the superhero ideal seems to have gone 
+badly awry, with events seeming to be leading to a terribly apocalyptic 
+war between superheroes. As they struggle to find a way to return to 
+their own times, they experience the terrible events which are going on 
+in the world around them, these events making up the central 
+core-narrative of Twilight. Eventually, they find a way to escape, the 
+Legionnaires and others returning to their respective times while Rip 
+Hunter returns to the present, which is where our story proper 
+"begins", if such a timecrossed tale can be said to have a real 
+beginning. At some point during his unwanted stay in the future, Rip 
+Hunter has met a twenty-years-older version of John Constantine, who, 
+as ever, seems to be a prime mover behind the scenes in the events 
+going down in this world. Prior to Hunter's escape, Constantine circa 
+A.D. 2000 has told Hunter that he must find and enlist the aid of John 
+Constantine circa 1987, who will help him in alerting Earth's 
+super-people to the possible danger waiting in their future and thus 
+avert it. This Constantine and Hunter proceed to do, crossing over into 
+a couple of current books in the process, or merely making phone calls 
+and writing letters if a guest appearance was too much trouble for the 
+various creative teams involved--they could also talk to a few people 
+in the pages of Twilight itself, this narrative providing the stuff 
+that makes up this linking/framing device, as the two prophets of doom 
+meet different reactions to their tale of a nightmare future waiting to 
+claim the world. The mechanics of this as a crossover device, as 
+explained above, allow all the creative people involved to do or not do 
+whatever the hell they please while still directly or indirectly 
+involving them in the concept of Twilight as a whole. Think how much 
+mileage the Thor writers have got from the idea of the Norse Gods 
+trying to do something to prevent Ragnarok, or fearing that Ragnarok 
+was about to come upon them and I'm sure you'll get the possibilities.
+
+Okay, so now that everybody is at least hopefully conversant with the 
+concepts behind this framing/linking sequence, I'll go on to discuss 
+the meat of the story, the terrible possible future that Constantine 
+and Hunter are warning everybody about. To do this I'll start off with 
+a brief description of the world and its background before moving on to 
+give sketches of the main characters who make up the events which 
+happen in this world.
+
+The World and Its Background
+
+The world of Twilight is not a world where the superheroes have 
+deliberately taken over, but one where they have inherited the Earth 
+almost by default as various social institutions started to crumble in 
+the face of accelerating social change, leaving the superheroes in the 
+often unwilling position of being a sort of new royalty. Even though 
+government and civic authority has all but disintegrated, the various 
+areas of America each have their own coteries of protecting superfolk 
+to look after them, and the superheroes have thus tended to group into 
+clans, each looking after a certain province. There are numerous 
+"Houses" of this nature dividing America up into a kind of feudal 
+barony system effectively, in terms of politics if not in terms of 
+technology, which is as advanced as one might expect by 2000 A.D.
+The development of this future society is something which I intend to 
+go into in detail, although not here. I want to avoid the sort of 
+nuke-blighted future that has been a feature of Dark Knight, Watchmen, 
+Ronin and a lot of other futures presented in comic books and other 
+media, like the Road Warrior films and their ilk, because I feel that 
+is becoming something of a cliche, and, while it's gone some way 
+towards serving its purpose and alerting people to the dangers of the 
+present day by pointing out the possible effects waiting in the future, 
+I personally feel that it's all but outlived its usefulness as a motif 
+in Twentieth Century function and would prefer to come up with a 
+different kind of holocaust. What I want to show is a world which, 
+having lived through the terrors of the Fifties through the early 
+Nineties with overhanging terror of a nuclear Armageddon that seemed 
+inevitable at the time, has found itself faced with the equally 
+inconceivable and terrifying notion that there might not be an 
+apocalypse. That mankind might actually have a future, and might thus 
+be faced with the terrifying prospect of having to deal with it rather 
+than allowing himself the indulgence of getting rid of that 
+responsibility with a convenient mushroom cloud or nine hundred. 
+Following the predictions made by Alvin Toffler and other eminent 
+futurologists, I want to show a future in which everything from the 
+family structure to the economy is decentralizing into an entirely new 
+form that, while it might ultimately be better suited to survival in 
+the changed conditions of life in the Twenty-First Century, is in a 
+constant and incomprehensible state of flux and chaos for those living 
+through it, caught in one of those violent historical niches where one 
+mode of society changes to another, such as the industrial revolution, 
+for example. The people of our world find themselves going through an 
+upheaval more abstract and bizarre but every bit as violent, and as 
+their institutions crumble in the face of the wave of social change, 
+they find themselves clinging to the various superhero clans who 
+represent their only anchor of stability in this rapidly altering 
+world. At the time in which our central Twilight storyline takes place, 
+there are eight "Houses", each containing a different superhero clan, 
+scattered across America, although as we shall see some of these are 
+pretty well abandoned or non-functioning in any active sense. I'll deal 
+with these one at a time, and introduce our main characters along the 
+way, House by House.
+
+The Houses of the Heroes
+
+The Houses
+
+House of Steel
+House of Thunder
+House of Titans
+House of Mystery
+House of Secrets
+House of Justice
+House of Tomorrow
+House of Lanterns
+House of Steel
+
+This is one of the two most powerful clans, and it dominates the 
+eastern seaboard around New York and environs. Alternatively, if I 
+change my mind it could be outside America altogether and set in the 
+Arctic Circle, based around a new Fortress of Solitude. This is because 
+the House of Steel consists of the clan founded by Superman--we have 
+Superman himself, a morally troubled figure who doesn't know what's 
+best to do about the chaos he sees surrounding him, but who has come to 
+accept that the Houses provide the only real permanent structure in a 
+destabilizing world and are thus important to maintain. Superman has 
+married and raised a couple of kids, and the person that he has married 
+is Wonder Woman, who has had an identity change to Superwoman to 
+accommodate her new stature--we see the genuine and powerful love 
+between these two in the face of the perils of the world surrounding 
+them and the desire to do what's best. They are also troubled by their 
+two offspring--one of these is a new Superboy, and he's about eighteen 
+when the story opens, and he's real bad news. The other child is a less 
+delinquent Supergirl, a new one who, like Superboy, has been born of 
+the union between Superman and Wonder Woman but who is much kinder and 
+gentler, more her mother's child. Having three members in the Superman 
+class and Wonder Woman (Superwoman) herself, they are obviously a clan 
+to be reckoned with.
+House of Thunder
+
+The House of Thunder is the other major power, and possesses members 
+with power in the same class as that of the House of Steel. The House 
+of Thunder is composed of the Marvel family, plus additions. Captain 
+Marvel himself is the patriarch, and is if possible even more estranged 
+and troubled by the state of the world than Superman is, perhaps 
+because the Marvel family are having to come to terms with the 
+difficulties of having human alter egos along with everything else, a 
+point I'll return to when I outline the plot. Alongside Captain Marvel, 
+there is Mary Marvel, who the Captain has married more to form a bona 
+fide clan in opposition to that of Superman than for any other reason. 
+There is also Captain Marvel Jr., now an adult superhero every bit as 
+powerful and imposing as Captain Marvel in his prime, but forced to 
+labor under the eternal shadow of a senior protege. To complicate 
+things, Captain Marvel Jr. and Mary Marvel are having an affair behind 
+the Captain's back, Guinevere and Lancelot style, which has every bit 
+as dire consequences as in the Arthurian legends. The other member of 
+the Marvel clan is Mary Marvel Jr., the daughter of Captain and Mary 
+Marvel Sr. Mary Jr. is fated to be part of a planned arranged marriage 
+to the nasty delinquent Superboy during the course of our story, in 
+order to form a powerful union between the two Houses. Peripheral to 
+all this but perhaps interesting, somewhere in the House of Thunder 
+(which rises up from the middle of Los Angeles over on the west coast, 
+by the way) there are quarters occupied by those characters from the 
+Fawcett universe who can no longer cope with life in an increasingly 
+realistic and difficult outside world. These include a sad and aging 
+Mr. Tawky Tawny and perhaps even Mr. Mind. Please don't laugh... I 
+think I can make it work. The Houses of Steel and Thunder face each 
+other across the country, with the various minor Houses and 
+constellations gathered somewhere in between, vying for the power 
+that's left over after the two major Houses have had their share.
+House of Titans
+
+One of the two foremost clans making up this collection of lesser 
+Houses is a clan composed of the remains of the Teen Titans, now grown 
+up and a hell of a lot grimmer and more frightening than they ever were 
+in the past. They are led by an adult Nightwing, who, trying to emulate 
+and live up to the reputation of the Batman, has become every bit as 
+driven and vicious as his mentor but who lacks the depth of compassion 
+and understanding that separate the Batman from all the other grim 
+vigilantes. As a result, Nightwing is not an altogether nice character. 
+This isn't helped by the fact that Starfire has been killed some years 
+earlier during a period when all the aliens were being forcibly 
+expelled from Earth by the big powers, who feared alien influence 
+moving in to take advantage of the disruption and uncertainty in 
+society. Other Titans who have died include Jericho, while some, 
+including Kid Flash and Wonder Girl, have left the Titans to take up 
+with other clans, a cause of bitterness amongst the remaining Titans. 
+These include an adult version of the Hawk (formerly of the Hawk & the 
+Dove) who is maybe renamed Warhawk and who only lives up to his name... 
+a sort of super Rambo who Nightwing tends to use as a human weapon. 
+There is also the Cyborg. Vic Stone has had some rejection problems 
+with his bio-electronic parts in the time that's elapsed since our 
+present day, and as a result more and more of his body has been 
+replaced by mechanical parts, including one lobe of his brain. He is 
+forced into considering the frightening question of when exactly 
+something stops being a person and starts being a machine. How much do 
+you have to take out and replace before there's just a robot left? One 
+thing that helps take Stone's mind off his own problems is that he must 
+keep an eye on the Changeling, who has serious problems of his own. 
+When the terrors of the world finally became too much for his hokey, 
+light-hearted facade, the Changeling did what he always said he'd do: 
+he went crazy. Not completely crazy, but more and more these days he 
+stays in animal form, or worse, in some awful halfway form between the 
+human and the animal. Worse still, increasingly these days he is 
+starting to adapt the forms of animals that don't exist outside the 
+increasingly tortured confines of his mind. Before the story is out he 
+will have adopted a new identity, calling himself the Chimera. The only 
+other Titan is Raven, who is now an aging, very dignified sorceress. 
+She stays with the Titans out of loyalty for the way they stayed with 
+her in the past when she had troubles, but increasingly she finds 
+herself drawn to the tempting notion of leaving the House of Titans and 
+moving into one of the other Houses, which is far more suited for her, 
+this being the next House on our agenda for discussion. (The House of 
+Titans, incidentally, can be constructed around the remains of the 
+original Titans Tower, although I must confess I forget exactly where 
+that's situated geographically.)
+House of Mystery
+
+Nothing to do with the previous House of Mystery except in name, this 
+House of Mystery is built around Baron Winter's Georgetown mansion and 
+is the residence of a number of DC's supernatural characters. These 
+include Jason Blood, a.k.a. the Demon, maybe the Spectre, Zatara, Dr. 
+Fate and a strange amalgam of Baron Winter and Deadman. Baron Winter 
+has had his mind burned out in a psychic battle some years earlier and 
+is now just an empty shell, except when he's inhabited by the spirit of 
+Boston Brand, who uses the Baron's body as a kind of holiday home in 
+the land of the living. The other person in residence at this new House 
+of Mystery is a reformed Felix Faust. The supernatural presences at the 
+House have very little to do with the outside world and have instead 
+devoted their pooled knowledge and talents to plumbing the depths of 
+the universe's many mysteries, being all but inactive in the world of 
+men.
+House of Secrets
+
+Again, similar only to its predecessor in name, this House of Secrets 
+is the residence of a rough conglomerate of the few surviving 
+super-villains that haven't been wiped out in an earlier Justice 
+League-headed purge on super-villains which makes up part of the 
+historical background of our story. The villains, all considerably 
+older than today, who make up this fraternity are roughly as follows, 
+subject to revision: Luthor, the Joker, Gorilla Grodd, Captain Cold, 
+Catwoman, Chronos and Star Sapphire along with maybe Dr. Sivana and a 
+couple of others. This House is powerful enough to defend itself 
+against occasional attacks by the other hero-centered clans but isn't 
+otherwise especially active and thus tends to get left alone, largely 
+because the province that these villains protect, somewhere up in the 
+reaches of Nevada, is just as well-looked-after as the places 
+controlled by the heroes, whereby hangs some sort of moral.
+House of Justice
+
+The House of Justice, built around the remains of the JLA's old cavern 
+headquarters, is the residence of the remains of the Justice League. 
+These are the most important of the lesser House, along with the 
+Titans. The lineup of the Justice League at the time of our story 
+includes Captain Atom and the Blue Beetle, an Aqualad that has grown up 
+to be the new Aquaman and a Wonder Girl who has taken on the mantle of 
+Wonder Woman after Wonder Woman herself opted to become Superwoman upon 
+marrying Superman. In addition to this there is the Flash (Wally West) 
+and the new female Flash, Slipstream (although I prefer the name 
+Joannie Quick, but this is by the by). There is also Captain Comet and 
+the new female Dr. Light.
+House of Tomorrow
+
+This is the House built by all the various exiles from other eras who 
+have been trapped in this world by the Time Trapper's flux. These 
+include Rip Hunter and some members of the Legion, but since anyone 
+passing through that strip of timestream at any time in the "future" or 
+"past" would be sucked into that time zone as well, there are a 
+paradoxical number of past and future selves of the various 
+time-travelers also caught there, including two or three different Rip 
+Hunters and two or three versions of the Legion at different stages in 
+their development. Other time travelers might very well include Tommy 
+Tomorrow and even maybe an earlier version of the Time Trapper himself, 
+who might very well provide the help these stranded travelers need to 
+return to their own times. It strikes me that amongst these travelers 
+there might also be Space Ranger and Jonah Hex. This might even be an 
+opportunity to return Jonah Hex to his original western continuity 
+where we know he will eventually end up according to previous DC 
+history. It would also be convenient to explain the so far unassigned 
+radioactive hellworld that Hex's adventures have been set in as one of 
+the maybe-Earths that exist in the fluke. Another possibility that 
+struck me for time travelers stuck at the House of Tomorrow would be 
+past selves of those DC characters who've traveled through the time 
+barrier in their past adventures. One that I'd like the limited use of 
+is Barry Allen, the Flash. I understand that there might be 
+reservations about this, but I think I could do it all lucidly enough 
+to avoid any complications. Anyway, the people at the House of Tomorrow 
+aren't terribly active since they are trying their best not to 
+influence events going on around them too much with an eye to possible 
+repercussions in the future if they mess around with the timestream in 
+the past. Also, their energies are mainly directed towards finding a 
+way out of their time trap... which, as I mentioned, is a problem that 
+might be solved by a past self of the Time Trapper himself.
+House of Lanterns
+
+The House of Lanterns, at the time our story opens, is abandoned and 
+shattered, since all the Green Lanterns, being self-confessed agents of 
+an alien power (the Guardians) have been banished from Earth during the 
+anti-alien purges mentioned earlier which resulted in Starfire's death, 
+and which also resulted in the banishment from Earth of the Martian 
+Manhunter, the Hawks and any other alien characters I may have 
+forgotten. Superman, since his own alien culture no longer exists, and 
+since he has lived on Earth since infancy, has been made a citizen of 
+the United States and is thus exempt--anyway, while the House of 
+Lanterns no longer exists upon Earth, an emergency House of Lanterns 
+has been set up upon one of the moons of Mars. (There's one that seems 
+from radiotelescope scans to be either hollow or riddled with caves, 
+but I can't remember whether it's Phobos or Deimos.) Here, the exiled 
+Green Lanterns conspire with the other space powers, including the 
+Ranns and Thanagarians to restore their power on Earth. The space 
+powers, knowing through their intelligence sources of the imminent 
+joining of the House of Steel and the House of Thunder by marriage are 
+afraid that such a union will enable the Super/Marvel family to bring 
+all the Houses under control and unify Earth as a resourceful planet 
+ruled by a pantheon of invincible gods--the space people fear that such 
+an empire might soon set its sights upon territories that are currently 
+the province of the Hawks, Guardians or Martians. The actual Green 
+Lanterns residing in the House of Lanterns at this time are a reformed 
+Sinestro, Carol Ferris and Guy Gardner, Green Lanterns of Earth; Sodal 
+Yat, the Daxamite "Ultimate Green Lantern" whose existence I hinted at 
+in the story me and Kevin did for the Green Lantern Corps Annual, and 
+maybe an aging Tomar Re, just because I'd like to see what Parrotmen 
+look like when they get old.
+Drunks, Hookers, and Panhandlers
+
+The Heroes
+
+John Constantine
+Sandy's Place
+The Phantom Lady
+The Doll Man
+Uncle Sam
+Blackhawk
+Plastic Man
+Congorilla
+Green Arrow and Black Canary
+The Question
+The Batman
+The Shadow
+The Metal Men
+Robotman
+Adam Strange
+Other Characters
+Okay, so that's about it for the Houses. Not all the superheroes, 
+however, are actually members of clans. Those who aren't in clans are 
+almost totally inactive, and for the most part inhabit one of the 
+rundown barrio areas of either Gotham or Metropolis, both cities 
+transformed beyond anything we've seen previously by the passage of 
+time and change. The way I see it, the scenes in the barrio will take 
+up much of the book and will probably be some of the livelier ones. The 
+barrio is a superhero slum where all the old heroes come to die. As I 
+see it, almost every passerby, shopkeeper and incidental background 
+character there used to be some sort of super character or other twenty 
+years ago. A lot of them are drunks, some of them are hookers or 
+panhandlers; the majority eke whatever living they can out of dead end 
+jobs, while there are a few who have actually adapted to their changed 
+circumstances quite successfully and certain others who still actively 
+carry on their own personal vendettas against injustice, albeit 
+secretly. I'll list these various characters one at a time, mainly 
+because I have fairly specific ideas about all of them that I'd like to 
+get across so that you'll know who we're talking about before I get on 
+to the actual plot. Most of the following have been altered almost 
+beyond recognition, so this is fairly necessary.
+John Constantine
+
+Constantine is about twenty years older, but obviously hasn't changed a 
+bit, except for the fact that he's living with a woman and has been for 
+the past fifteen years. This woman might even turn out to be the Fever 
+character that I introduced in my two part Vigilante story a while 
+back. Anyway, her and Constantine are to all intents and purposes 
+married, and are obviously loving it. Constantine is still into the 
+same sort of scams and wheeler-dealing, and in the whole story of 
+Twilight he seems to be the only character who has his finger upon all 
+the pulses and knows exactly what's going on in this maze of plot and 
+counterplot between the various factions involved. He thus becomes a 
+central character in the story, and it strikes me that Constantine 
+would probably be a logical choice to launch into his own title off the 
+back of this crossover, if you're looking for characters to do that 
+with.
+Sandy's Place
+
+Sandy's Place is one of the pivotal settings in our story. It's the 
+main barroom in the barrio, and thus acts as a meeting point for a lot 
+of the characters involved. Its proprietress is Sandra Knight, formerly 
+the Phantom Lady. I'll run through the main characters who hang out at 
+her joint starting with the Lady herself.
+The Phantom Lady
+
+Sandra Knight is now somewhere approaching fifty and has a sort of 
+ripe, down-at-heel Joan Collins sexuality to her still. She runs the 
+bar and acts as a sort of a den mother to all the regulars who drift in 
+there, maybe occasionally sleeping with one of them for old times' 
+sake, although never anything lasting or serious. She's a nice woman, 
+doing her best to get by in a difficult world who nevertheless seems to 
+have a lot of care and affection to lavish on others, as evidenced by 
+her care of the next member of our cast up for discussion.
+The Doll Man
+
+Darrel Dane is probably the most unsettling and pitiful character in 
+our cast, even though we don't see much of him. What has happened, 
+basically, is that the constant shrinking and growing, plus the effects 
+of the square cube law with regard to size increase have taken their 
+toll upon him. As the years passed, his bones became brittle and would 
+break easily if he stayed at normal size for too long. Eventually it 
+became easier to stay at six inches tall all the time, but this itself 
+was not the end to the problem--remaining at a constant six inches, 
+Dane's body and brain began to adapt to their new size, redistributing 
+their mass and aging their neurons for greater comfort and 
+effectiveness. As a result, Dane has slowly changed shape into a 
+horrible elongated insect man, still six inches high, whose bone 
+structure has altered dramatically into something barely recognizable 
+as anything that used to be human, although just recognizable enough to 
+be disturbing. His brain has also had to change to accommodate 
+drastically reduced brain size and capacity. He's still intelligent, 
+but it's a non-human intelligence and he can barely communicate 
+coherently with normal humans anymore. Sandra Knight has taken him 
+under her wing. She keeps him in a vivarium behind the bar (it brings 
+in enough money to pay for his food, and he's too alien to mind being 
+displayed like this, so what the hell, although she still feels bad 
+about it), and Sandy is almost the only person that the former Doll Man 
+can talk to and make himself understood. She's also the only person 
+unselfish enough to be able to bear the creepy little bastard running 
+up her arm to nestle on her shoulder and talk into her ear in his 
+eerie, piping, almost inaudible voice. Darrel Dane, while he's the only 
+person other than Sandy who lives at the bar full time in his tank, is 
+not the only lame duck that Sandy extends her sympathy to.
+Uncle Sam
+
+Uncle Sam in the character I'm most looking forward to writing, taking 
+my cue both from the character of Uncle Sam in Robert Coover's 
+excellent book about the Rosenberg execution, The Public Burning, and 
+from the portrayal of Richard Nixon on Robert Altman's Secret Honor. In 
+Coover's book there is a sort of giant called Uncle Sam who is exactly 
+like the old Quality character right down to his dialogue, which is a 
+sort of breathless rush of manic cornball philosophy and darkly lyric 
+jingoism. He talks endlessly about his exploits, boasting Paul Bunyan 
+fashion about how he strode across the sea, up to his red and white 
+striped thighs in the deepest waters of the Pacific and rooted out his 
+archenemy, the Phantom, wherever he should strike. In the Altman film, 
+there is a harrowing portrait of Richard Nixon putting himself through 
+a solitary self-confessional, sitting in a lonely room and vomiting his 
+history into a tape recorder, helplessly spilling out all the things 
+that he'll never be able to tell another living soul for fear of his 
+life. All the stuff about Watergate that nobody ever suspected, all the 
+stuff about Kissinger and the Shah, all the places where the bodies are 
+buried. As I see my Uncle Sam, he's a hopeless derelict with no power 
+at all, and nobody is even entirely sure whether he actually is the 
+Uncle Sam or some wino dressed up like him. He sprawls in a dark corner 
+of the bar, drinking the last years of his life away and babbling to 
+himself in a mixture of the two styles outlined above, his cornball 
+jingoistic reminiscences occasionally leading his erratic memory up 
+alleyways in the American past down which he'd rather not stray since 
+his ramblings will have a kind of dark poetry to them. I see him acting 
+as a sort of surreal Greek Chorus or something, his senile monologues 
+having suggestive resonance within the main framework of the story. He 
+is one of the other social cripples that Sandy can always find a free 
+drink for, even though he is not an actual physical cripple yet, 
+despite the fact that his liver is obviously deteriorating rapidly. The 
+only actual physical cripple to regularly visit Sandy's Place is our 
+next character for discussion.
+Blackhawk
+
+For a few issues it might not even be apparent that Blackhawk is a 
+cripple. This is because he has a perfect pair of prosthetic legs to 
+replace his own legs which, Douglas Barder style, are now missing. He 
+is a sinister and obsessive figure, still fighting a private war inside 
+his head which has never quite been the same since the mission in which 
+all his teammates died and in which he lost his legs. He lives in a 
+single room in the barrio, paid for out of the remains of the fortune 
+that once funded Blackhawk Island. I figure at some point in the Second 
+World War he got his hands on some Nazi gold and still has a reserve of 
+it somewhere, albeit a dwindling one. Gold is more than ever a firm 
+economic unit in the chaotic economic flux situation of this future 
+world, so he could probably afford to live a less Spartan existence. He 
+just doesn't want to, rising at five every morning and strapping on his 
+legs before working out in the gym and the flight simulator that he 
+keeps at a secret location downtown. In the evenings he maybe calls in 
+at Sandy's for a glass of Perrier before going on to cruise around the 
+barrio's leather bars. At the bars, he singles out young men according 
+to some system known only to him and offers them employment in some 
+unspecified endeavor--we eventually find out that he is recruiting a 
+new squadron of Blackhawks to replace his dead friends, and that he has 
+seven F-III bombers hidden in a massive underground hangar that he has 
+invested the remains of his gold into. He picks up boys and asks their 
+names--maybe one of them says, "My name's Charles." Blackhawk pats him 
+on the shoulder and smiles and says, "I think I'll call you Chuck." A 
+boy called Andrew becomes Andre and so on--Blackhawk is a sort of 
+obsessive urban fascist with a survivalist mentality and a strong 
+sociopathic streak. He is obviously building up his squadron of vicious 
+leatherqueen Blackhawks and equipping them to act out some terrible 
+version of his own internal holocaust. You can take the boy out of the 
+war, but you sometimes can't take the war out of the boy, and 
+Blackhawk's new squadron will almost certainly figure prominently in 
+the explosive climax to this series.
+Plastic Man
+
+Like most of the old Quality characters, Plastic Man often calls by at 
+Sandy's before moving on uptown to look for trade--Plastic Man is a 
+male prostitute or gigolo or whatever the polite term might be. Thanks 
+to his elastic consistency, he can keep himself looking young and 
+attractive for a lot longer than many of his fellows, and it is this 
+facet of his talent that he now exploits for a living. He is employed 
+by the Seductive Winks escort agency, managed by one W. Winks. He is, 
+in fact, the only employee of the agency. He is likable and kind 
+despite his shady occupation, and everyone gets on with him--with 
+traces of his past as Eel O'Brien finally starting to show through, he 
+is a sort of active and romantic neighborhood hoodlum who always 
+dresses well and buys flowers for old ladies and drinks for bums and 
+apples for kids. There is a more somber side to him that he probably 
+only reveals to old friends like Sandy, who is the only person that 
+he'll sleep with for nothing these days. Although he seems permanently 
+youthful, he has started to notice a lessening of the elasticity in the 
+skin around his lower back. It's becoming saggy and feels like crepe, 
+like something that has been stretched once or twice too often and is 
+becoming shapeless. Plastic Man has a sort of horrible half formed 
+vision in his head that he doesn't like to think about concerning how 
+he might finally end up. He might end up as just a puddle--he often 
+wakes up screaming in the dead of the night from dreams about this, and 
+the shades that he habitually wears now are there to hide the tired and 
+worried look around his eyes as much as anything else. Woozy Winks is a 
+roguishly half-likable but mostly disgusting old pimp who will get a 
+phone call from Kathy Kane (yeah, I know the Earth-One Batwoman died, 
+but the one on Earth-Two didn't and has presumably been living in 
+anonymous retirement on Earth-Composite ever since the Crisis) and 
+notify Plas, who will go round to her mansion to keep Ms. Kane company 
+for the evening, giving Woozy a cut of the subsequent moneys. I see 
+Plastic Man as being a sort of reluctant hero who'll come through in 
+the end.
+Okay... those are the main characters who hang out at Sandy's, although 
+most of the other characters pass through from time to time. These 
+include:
+Congorilla
+
+Another character that I'm looking forward to doing, and one of the 
+nastiest characters in our assembled cast. Basically, what has happened 
+to Bill is that he got old. His human body got older and older while at 
+the rub of a ring he could transmit his body to that of a powerful and 
+immortal sacred golden gorilla. Ask yourself, what would you do? 
+Anyway, Bill eventually decided to stay in the body of the gorilla 
+forever and now is quite a wealthy and successful local businessman, a 
+golden gorilla wearing a business suit and even managing to talk just 
+about recognizably, even if some of it has to be done in sign language. 
+The sort of operation he runs is a sort of lucrative small time 
+criminal organization that services the bars and the gambling dens and 
+the brothels and also supplies most of the barrio's drug traffic. His 
+activities will bring him into contact with lots of the other 
+characters... putting protection pressure on Sandy's bar, for example, 
+or having Woozy Winks beaten up for non-union pimping, and assuming 
+that the barrio is set in the remains of Gotham, which I'm starting to 
+favor more and more, then effectively he becomes the new "Gorilla Boss 
+of Gotham City". He has a dark secret in his closet, however... almost 
+literally. The body of Congo Bill, now over ninety years old, refuses 
+to die. The gorilla mind that has been trapped in it unfairly refuses 
+to let go and is hanging on with a fierce and horrible willpower. 
+Unable to bring himself to kill it outright, Congorilla keeps the 
+shackled and naked old man in special rooms at his apartment, feeds it 
+garbage and hopes it will die soon, but it doesn't. It just lies in the 
+corner and snarls weakly when he enters and fixes him with its ancient 
+glaring eyes as he gives it its food.
+Green Arrow and Black Canary
+
+Oliver and Dinah have both retired from costumed crimefighting and are 
+now coeditors of a small but vital and thriving radical newspaper that 
+serves the barrio and will be useful in getting over background 
+information quickly and stylishly. Oliver and Dinah are two of the 
+nicest and most normal people in the series, both fiercely committed 
+and tireless in their efforts, both loving each other very much despite 
+the violent rows that they have learned to weather and almost come to 
+enjoy as part of their relationship. Their paper is called Black 
+Feathers, and on its masthead there is a symbol of a drawn-back arrow 
+about to be fired, fletched with black flight feathers.
+The Question
+
+The Question is a freelance investigator... a sort of masked Philip 
+Marlowe who doesn't make very much money and who usually ends up taking 
+cases just for the interest or the moral necessity. He's quite good 
+friends with Oliver and Dinah and often gives them the inside dope on 
+situations that he has knowledge of for reporting in Black Feathers. 
+Him and Oliver have strong political differences but are firm friends 
+despite this. When our story opens, the Question is investigating an 
+impossible locked-room murder mystery involving a midget and a 
+6'6"-tall call girl into heavy bondage. Don't worry, I'll explain 
+later. It's all vitally relevant.
+The Batman
+
+Nobody's actually seen him for years. He's rumored to be around, he's 
+rumored to be active, and rumored to be doing something, but nobody 
+knows what or even really if. He might have died years ago.
+The Shadow
+
+See The Batman.
+In actual fact, these two crime-fighters have joined forces in a 
+clandestine bid to rid the Earth of the oppressive and dominating 
+superhero Houses forever, so that mankind can get on with its own 
+destiny. We won't learn this until later in the series, although they 
+play a big part in the ending. As an aside, are Tarzan and Doc Savage 
+in the public domain yet? No big deal, but I'd really like a sort of 
+secret council of the immortals: Batman, the Shadow, Doc Savage and 
+Tarzan, all planning to start the revolution that will rid Earth of the 
+super-people forever. Being basically more elemental forces than 
+people, these characters have remained exactly the same, except they 
+got tougher.
+
+The Metal Men
+
+Very few of these survive. Platinum is working as a waitress in a sort 
+of weird sci-fi autosex bar, while Iron is working as a construction 
+worker, slowly corroding and losing his faculties as the rust claims 
+his mind. No hope of a resurrection should he be damaged, since creator 
+Will Magnus passed away years ago. Tin is destroyed, as is Mercury. 
+Gold has gone into hiding, mainly because of the fact that, as 
+mentioned earlier, gold is more in demand than ever, and there are a 
+lot of people who would like to capture him and melt him down. We get 
+to see Gold towards the end, but he isn't much in evidence throughout 
+the rest of the series. The Metal Man with the strangest fate is Lead. 
+who has become an animated part of the shielding surrounding a 
+closed-down nuclear reactor that is still considered to be dangerous. 
+As a result of his activities, Lead is radioactive and will not be able 
+to go near anyone for about six million years. The Metal Men are not 
+major characters, but I think we should be able to get some darkly 
+comic stuff out of them, as well as a lot of genuine poignance.
+Robotman
+
+Still alive and clanking after all these years, this former Doom Patrol 
+member is one of the few people hanging around the barrio who still has 
+an ear amongst the superheroes in the Houses. He is friendly with 
+Cyborg, of the Titans, who he is maybe helping to adjust to his new, 
+mostly robotic, state. He also has contact with the Justice League, 
+since he was once close to the Teen Titans and since three ex-Titans... 
+Wonder Girl, Kid Flash and Aqualad... are now amongst the Justice 
+League membership. Mostly, though, he just hangs around the barrios, 
+maybe going out for an evening at the cinema with Platinum when she's 
+finished work, or calling by at the construction site to talk to Iron. 
+I figure a character who can cross the social boundaries will be 
+useful, and it's nice to have someone from the Doom Patrol represented.
+Adam Strange
+
+Adam Strange is trapped on Earth, but is still in contact with the 
+alien alliance based around the new House of Lanterns on the moon of 
+Mars. He is a sort of a mole, and he will eventually figure largely in 
+the aliens' plan to invade Earth and "liberate" it from superhero 
+dominance. We see him around a lot, but don't realize who he is until 
+near the end of the series.
+Other Characters
+
+There are maybe other characters that I don't have anything clear in 
+mind for as yet but who I'll want to include when the time comes. I 
+figure I ought to list them here, so that any real problems can be 
+sorted in advance. I might want to use the Challengers of the Unknown, 
+the Golden Age Flash, Roy Raymond, Bobo the Detective Chimp, Johnny 
+Quick, the Black Condor, the Ray, Sarge Steel and perhaps a few old 
+villains from here and there. One thing that this series will enable us 
+to do, if it should be called for, is to simply introduce a new and 
+revamped group like the Challengers of the Unknown as an established 
+fact, to try them out on the reader before launching them in a new 
+title, which should be borne in mind.
+The Plot
+
+The Framing Device
+The Central Plot Okay, I think that's about it as far as the character 
+sketches go, so I'll get down to a sketchy outline of the central plot. 
+This is the area I have the least worked out in detail, although I have 
+the overall picture pretty clearly, so maybe I'll just trust to luck 
+and hope it comes together as I go along. If not, I hope you'll bear 
+with me and I'll clarify and polish the weak points at some later date. 
+As before, since the plot comes in two sections, with the central 
+narrative and the framing/linking device, I'll discuss the plot in two 
+parts for the sake of greater clarity, starting with a description of 
+the events that make up the framing sequence. As before, since this is 
+a time travel story, telling things in a chronological sequence is 
+sometimes difficult to do without getting muddled, but I'll give it my 
+best shot:
+The Framing Device
+
+The plot of the framing device is as follows: the story starts at its 
+ending in a one-page prologue that takes place at the end of 1987 in a 
+bar someplace in New York. John Constantine sits drinking alone, 
+looking very bitter and pissed off at somebody or other. A striking and 
+personable blonde enters the bar and, noticing Constantine, leans over 
+and asks him for a light. Constantine, sitting there with a crumpled 
+letter in one bunched fist and a glass in the other, glances up at her 
+and then stares at her as if transfixed. We close up on his face and 
+then move into flashback. Basically, the whole series is what passes 
+through Constantine's mind in the two seconds it takes him to respond 
+to the girl asking him for a light.
+We flash back to the beginning of 1987, when Constantine is surprised 
+by a visit from Rip Hunter, who he doesn't know but who appears to know 
+everything about Constantine, including some very personal details that 
+Constantine has never told a living soul about. Intrigued, Constantine 
+listens to Hunter's story. Hunter tells him about how he's been 
+marooned in time for subjective months, stranded at the House of 
+Tomorrow in the world of Twilight. Hunter tells him about how, in this 
+world, he had met up with an older version of John Constantine who was 
+somehow instrumental in Hunter's escape back to his own time after the 
+events to be chronicled in Twilight have concluded. This elder 
+Constantine, explaining about the flux that exists in the timestream, 
+explains that there is a better than good chance that of the potential 
+future Earths waiting in the fluke down the timestream from our 
+present, this future Earth is the one most likely to actually happen, 
+with all of its chaos and carnage. It's a world of war, and it ends 
+with all of the super-beings being either killed or exiled from Earth 
+forever. Giving Hunter enough personal information to convince the 
+younger Constantine and get him to aid Hunter in his mission to alert 
+the people concerned and avert this nightmare future, the elder 
+Constantine sends Hunter back in time with his dire story of horrors 
+waiting in the future that must be averted. Hearing Hunter's tale 
+(although the readers don't hear it all at first) Constantine the 
+younger is convinced enough to help the time traveler contact some of 
+the various personages affected and tell them the bits of the story 
+that are relevant to them, maybe in their own books or maybe in 
+Twilight itself. This framing device has its own resolution, but I'll 
+leave that till later.
+
+The Central Plot
+
+This is the main central plot of Twilight, being the story that Hunter 
+tells Constantine and that Constantine passes on to the other parties 
+involved, and it deals with the world of the Twilight. I don't have it 
+broken down issue by issue or anything, but the rough shape is 
+something like this: In the middle 1995 or earlier, when society was 
+starting to break down, many of the villains on Earth tried to take 
+advantage of this situation by exploiting the uncertainty and disaster. 
+Incensed by this, the current Justice League decide to go on the 
+offensive for the first time and plan a careful campaign that will 
+remove all the super-villains forever. They enlist the aid of a lot of 
+other superheroes in this, and they are mostly very effective. So 
+effective, in fact, that they begin to be seen as the only effective 
+force for reason and order in a fast crumbling world. This goes to the 
+assembled heroes' heads a little, and in an attempt to secure their new 
+power base they pass a majority motion outlawing aliens from Earth. 
+While this is passed and is rigorously enforced, it is one of the 
+decisions that causes the first serious rift in the ranks of the 
+assembled super-doers, with some small groups like the Titans starting 
+to drift away from the main group. This process continues until the 
+state of the ruling Houses is pretty much as described above, with the 
+House of Secrets containing the only super-villains to survive the 
+purge other than those who reformed, and the House of Lanterns 
+demolished upon Earth and temporarily relocated upon Mars pending the 
+planned secret invasion. At the start of our story proper, there is 
+quite a lot of different activity going on in the various camps. The 
+Houses of Steel and Thunder, each suffering their own internal 
+stresses, are preparing for the marriage of the delinquent Superboy 
+with Mary Marvel Jr., daughter of the Captain and Mary Sr. This is a 
+development that causes considerable anxiety all over the place: 
+previously, even the two most powerful Houses could not attempt to 
+exert any pressure upon the others for fear that the other Houses would 
+unite against them. Both Houses knew that individually they couldn't 
+hope to take on the assembled might of the Titans, Justice League and 
+others. This preserved a status quo of sorts. However, with the 
+prospect of an alliance in the offing, it seems quite possible that the 
+assembled forces of three people with the power of Superman, four 
+people with the power of Captain Marvel and Wonder Woman into the 
+bargain could easily smash the most firm resistance. This prospect 
+worries both the Houses of Titans and Justice tremendously. It also 
+worries the villains remaining at the House of Secrets who remember 
+back to the purges of the nineties and shudder. It certainly alarms the 
+people living in the barrio, who, though downtrodden, still have a 
+certain amount of liberty, impoverished though it be, and are not 
+actually living under the absolute dictatorship that could result from 
+a marriage between the Houses of Steel and Thunder. The other major 
+party alarmed by the prospect are the assembled alien forces that are 
+conspiring out on the moon of Mars. They don't like the thought of a 
+planet ruled by an unstoppable superhuman elite purely because it might 
+very quickly pose a threat to the aliens' own well-being. Their plan is 
+cryptic, but we learn a bit of it at a time. The main thrust of their 
+plan is that they intend to use Adam Strange's place as their agent on 
+Earth to set up a Zeta Beam link through which an inviting army of 
+Hawkpeople, super-powered green Martians and members of the Green 
+Lantern Corps could materialize in the center of Times Square or 
+somewhere, this plan being linked to a Thanagarian Plan that has to be 
+abandoned in the current issues of Swamp Thing, resurrected here to 
+much more spectacular purpose.
+Okay, so that's the rough background. Down at Sandy's the bums are 
+hanging out, Uncle Sam muttering in the corner, Plastic Man dropping by 
+for a drink with Blackhawk before they both go to cruise the bars 
+uptown, Doll Man scuttling around his vivarium and so on. Oliver and 
+Dinah are publishing their newspaper, with the Question occasionally 
+dropping by for a political argument with Ollie or to pass on a bit of 
+information. His current case is one that has him totally mystified: a 
+midget turned up at a rough trade bar, was seen by witnesses, finally 
+vanishing to an upstairs room with a very tall, very beautiful call 
+girl that nobody had ever seen before. When the door was broken down, 
+this after nobody had emerged from the room for some several hours, the 
+body of the midget was found bound and gagged, with his neck broken by 
+a single clean blow. The room was locked with no other possible exit. 
+The call girl was gone. There was no murder weapon. This little 
+conundrum will continue to puzzle them throughout the series until we 
+get a few shaking revelations at the end.
+
+In the Houses themselves, things are unsettled. At the House of Steel, 
+both Superman and Super(Wonder)woman are worried about their delinquent 
+son and his increasingly-difficult-to-conceal tendencies towards sadism 
+and sociopathic behavior. They are also worried about their daughter, 
+who they cannot find a suitable suitor for, since Captain Marvel Jr. 
+doesn't appear to be interested in her. Captain Marvel Jr.'s 
+disinterest is largely due to the fact that he is madly and 
+passionately in love with Mary Marvel Sr., and is liaising with her 
+behind Captain Marvel Sr.'s back. Their relationship has grown 
+difficult of late, largely because the increasingly erratic and cranky 
+behavior of the Captain seems to have taken a turn for the worse. All 
+of the Marvel family have had problems with the fact that they have two 
+sets of bodies neither of which ever age in the slightest but Mary and 
+Junior have solved this by more or less giving up their human 
+identities. This doesn't worry them, mainly because they are a lot 
+closer to the age of their counterpart than, say, Billy Batson is to 
+his alter ego. (I should point out that for reasons I've yet to find a 
+good explanation for, the Marvel family seem to grow, in their 
+superhuman forms, to an ideal age, and then stop. Thus, Mary and Junior 
+are both around twenty-five in their superhuman forms, as is Captain 
+Marvel himself, since he is already the ideal age and hasn't grown up 
+any more in the intervening years. All three are still children if they 
+happen to say Shazam, but the only one who still uses the word is the 
+Big Red Cheese himself, unable to give up his human self as Mary and 
+Junior have done. Hanging on to his Billy Batson identity has caused a 
+lot of problems for the Captain, as well as in his relationship with 
+his wife, but these seem to have become a lot better recently. Now, 
+however, there is a new element that is perhaps even more threatening. 
+Whereas before Captain Marvel was wrapped up enough in his personal 
+problems to leave Mary and Junior lots of time together, lately he has 
+started to make more normal marital demands upon Mary's time. He's even 
+being extra nice to her, which worries her like anything. There are 
+other oddities of behavior... the Captain will no longer go down and 
+sit and talk with Mr. Tawky Tawny as had been a regular habit of his. 
+In the midst of all this, there are problems with Mary Jr., who really 
+doesn't want to marry Superboy at all.
+
+In the background of all this we see John Constantine moving around 
+amongst the various characters, gathering a bit of information here and 
+there, obviously conducting some plan that he has in mind. (Remember 
+this is the older Constantine we're talking about here.) He seems to be 
+paying particular attention to the areas of stress between the various 
+Houses, and it becomes quickly apparent that although he's older he's 
+still in the habit of manipulating people in various cryptic ways for 
+reasons unclear to anyone but himself.
+As things progress, we see the paranoia concerning the coming wedding 
+between the Houses of Steel and Thunder amongst the lesser Houses start 
+to come to a boiling point. The Titans, directed by a ruthless and 
+embittered Nightwing, maybe approach the Justice League proposing that 
+the two Houses should join forces, along with maybe the villains in the 
+House of Secrets, to stand against the possible threat of being overrun 
+by the Houses of Steel and Thunder. Maybe an uneasy alliance is formed 
+between the three Houses, although the Houses of Mystery and Tomorrow 
+are not at all interested in joining in. A plan starts to emerge for a 
+massed attack upon the Houses of Steel and Thunder, perhaps even on the 
+wedding day itself, in the hope that both Houses can be eliminated and 
+the country divided up between the victors. Meanwhile, we see Blackhawk 
+continuing to recruit his new Blackhawks, and we see Constantine 
+starting to step up his plan, making contact with more and more of the 
+people he's going to need to accomplish it. For one thing, we see him 
+finally manage to make contact with the elite council of the Shadow, 
+the Batman and maybe Doc Savage and Tarzan as well, and learn of their 
+plan to oust all the superheroes from Earth. Constantine seems eager to 
+help them with this, although we aren't sure about how much of a double 
+game he's playing. He also makes contact with Adam Strange, and through 
+gaining Strange's confidence learns of the alien's planned attack upon 
+Earth. Constantine seems eager to help with this plan as well. In fact, 
+as Constantine brushes against the various groups involved, it becomes 
+clear that he is promising his undivided assistance to all of them. It 
+is maybe during this period that he calls at the House of Tomorrow and 
+makes the acquaintance of Rip Hunter, who also figures in his plans. 
+Beyond this, he also spends a lot of time hanging out with the Question 
+and around the offices of Black Feathers, seeming to be everywhere at 
+once as he works his dubious and incomprehensible scheme.
+
+As the plot builds up in momentum, it is this ingenious and baffling 
+juggling act of Constantine's that becomes the main attraction. We see 
+him urging on the Justice League/Titans to their attack upon the Houses 
+of Thunder and Steel, and yet we see him call at the House of Thunder 
+and speak to Captain Marvel himself, telling him of the planned attack. 
+This is a key scene: Constantine tells the Captain of the attack and 
+asks him not to do anything to help the House of Steel in the thick of 
+the battle. When the Captain politely asks Constantine why he should do 
+this when he is, after all, supposedly intend upon cementing the union 
+between the Houses of Steel and Thunder. Lighting a cigarette, 
+Constantine smiles and says that he thinks the Captain already knows 
+what the reasons are. The Captain flinches back from the match as 
+Constantine strikes it with a look of terror which passes, changing 
+into a smile at Constantine's cleverness. He agrees to go along with 
+Constantine so far as it suits his own plans.
+
+While urging the Titans/Justice League to strike while the iron his hot 
+and simultaneously urging Captain Marvel not to defend his allies, 
+Constantine is at the same time urging the Batman/Shadow group to hold 
+back in their attack upon the super powers until a more advantageous 
+time. After he has explained his plan to them, although not to the 
+reader, they agree. On top of all this, Constantine is acting as a 
+fifth columnist to the planned alien invasion through Adam Strange. He 
+urges Strange to commence the alien invasion after the Titans/League 
+and the Houses of Steel and Thunder have had a chance to weaken and 
+decimate each other at the wedding. This sounds sensible, and they 
+readily agree. As if this wasn't thoroughly confusing enough, 
+Constantine also has a number of other irons in the fire. In the barrio 
+he is seen at various times searching for two people. One of these is 
+the vanished Metal Man, Gold. The other is an old crippled man who is 
+reputed to live somewhere in the barrio that nobody knows the history 
+of. Eventually, Constantine finds both of these. Gold, after leading 
+him on with some story or other, he tricks cruelly and has melted down. 
+The old man, when he finds him, he is much more careful with. I don't 
+know when I'll reveal the information, but this old man is in fact 
+Metron, formerly of the New Gods, banished to Earth for some treachery 
+that he's committed in the past when the temptation to uncover new 
+knowledge became too much for the feeble moral restraints that he 
+places upon himself. What Constantine wants with Metron is fairly 
+straightforward: He wants the Moebius chair, although we don't find out 
+why until later. I should point out that these various plot threads 
+will be spread out dramatically, intercut with developments in the 
+lives of the other characters, so it won't all be about John 
+Constantine, endearing though I obviously find him. For example, while 
+planning their raid upon the Houses of Steel and Thunder, the assembled 
+Houses of Titans, Justice and Secrets will attempt to pressgang various 
+heroes in the barrio into their army, with mixed results. Some of the 
+barrio heroes either reluctantly or willingly go along with the 
+revolutionary Houses, while some other people are enlisted by 
+Constantine to aid in his master plan. When we finally have the various 
+factions set up and defined, even if there are some ambiguous areas, we 
+let the climactic fireworks commence.
+
+On the wedding day, the planned attack by the Titans, Justice League 
+and villains upon the Houses of Steel and Thunder gets underway. The 
+losses are heavy upon both sides. Wonder Woman (the former Wonder Girl) 
+is killed in battle by Superwoman (formerly Wonder Woman) who is 
+herself killed by Captain Atom. Superboy is also killed, along with 
+most of the Justice League, Titans and super-villains. Captain Marvel, 
+who has been expecting the attack after being warned by Constantine, is 
+unharmed, while Captain Marvel Jr. And Mary Marvel decide to take 
+advantage of the confusion to flee into space, where they hope to make 
+a new home. Supergirl goes with them. This leaves only Captain Marvel 
+and a badly battered Superman standing amongst the bruised and bloodied 
+remnants of an army of beaten superheroes. The attempted coup by the 
+Titans/League has been successfully repulsed, and three Houses lie 
+shattered, but all that remain of the two most powerful Houses of all 
+are the two archetypal superheroes, standing back to back, waiting for 
+what's going to be thrown at them next.
+
+This turns out to be the alien invasion. Arriving by Zeta Beam, an army 
+of Hawkmen, Lanterns and Martians pour into Earth and quickly get rid 
+of what remains of the armies recruited by the Houses of Titans, 
+Justice and Secrets in their failed attempt at a coup. They then 
+advance upon the main palaces. Superman isn't worried, since with 
+Captain Marvel by his side the two of them should still be just about 
+powerful enough to send the invaders packing.
+
+This is where the surprise card is played. Captain Marvel isn't Captain 
+Marvel. Captain Marvel has been dead ever since the story opened.
+
+It had all started with little Billy Batson and his problem. There he 
+was, unwilling to give up being human, still spending a lot of time in 
+a child's body. The unfortunate thing was that though little Billy's 
+body didn't age, his mind did. Trapped in a child's body but afflicted 
+with adult needs, Billy went quietly... well, bats, I suppose. A lot of 
+the problems were sexual. Physically, Billy was not capable of normal 
+sex and thus pretty soon began to experiment with more bizarre 
+variations such as S&M, visiting the appropriate bars in clothing that 
+made him look as grown-up as possible while he still had the face and 
+body of a child. At a certain club on a certain night, Billy had met a 
+strikingly tall call girl who seemed to meet his every fantasy 
+requirement. They went to a room upstairs together and locked it from 
+within. Billy was tied up, and then agreed to be gagged. At this point 
+the call girl began to melt and change shape, shimmering as if through 
+a heat haze before Billy's startled eyes. In the end, instead of a six 
+foot six human woman, Billy is staring at a seven and a half foot tall 
+green Martian man. It is J'onn J'onzz, the Martian Manhunter, on Earth 
+incognito using his power of disguise. Billy, being gagged, cannot say 
+Shazam and turn into Captain Marvel. Nor can he prevent the Manhunter 
+snapping his neck with one blow of his hand. The Manhunter then walks 
+out invisibly through the walls and leaves a dead midget and an 
+insoluble mystery. The Manhunter has assumed the Captain's identity, 
+being able to convincingly duplicate his powers, in order to catch 
+Superman by surprise when the alien invasion finally comes. This is why 
+he flinched when Constantine struck a match and why he didn't mind 
+letting the three rebel Houses and the House of Steel tear each other 
+to bits.
+Upon realising how he has been set up, Superman fights with the Martian 
+Manhunter, killing him with his heat vision. However, by this point it 
+is too late, and the assembled Martians and Green Lanterns have 
+arrived. We have a powerful and intense sequence where Superman manages 
+to smash his way through a lot of the alien forces single-handed while 
+being ring-whipped by the Lanterns, only to finally be beaten to death 
+in single combat by the massive and frighteningly powerful Sodal Yat. 
+The alien invasion is a complete success, and the coalition forces of 
+the Martians, Guardians and Thanagarians will now govern Earth forever 
+and keep it nice and peaceful. It seems that in his dealings, 
+Constantine's plan has gone awry, unless he actually meant to impose an 
+alien dictatorship upon the Earth.
+
+It is at this point that the final pieces fall into place. The alien 
+conquerors find themselves suddenly attacked by a small army of 
+superheroes, these mostly being those recruited by Constantine as well 
+as the forces of the council made up of Batman, the Shadow, etc. Most 
+of these are wearing thin golden armor, made from the body of the 
+unfortunate Gold, which renders the otherwise omnipotent power rings of 
+the Green Lanterns useless. The aliens are driven back and contained by 
+the surprise attack of the others, and the battle seems to come to a 
+Mexican standoff when one of the Hawkpeople or Green Lanterns points 
+out that however valiantly the heroes fight, there is a massive army of 
+combined extraterrestrial warriors ready to keep pouring onto the Earth 
+until all resistance is squashed. It is at this point that Constantine 
+plays his trump card.
+
+Using the Moebius chair of Metron, Constantine has visited the 
+antimatter universe of Qward. In return for a firm promise of immunity 
+for the planet Earth and its immediate system, Constantine has then 
+sold them the secret of the Boom Tube, which he has also managed to 
+wheedle from Metron. Thus, while the assembled aliens are preparing to 
+pour into Earth via Zeta Beam, Thanagar, new Mars, Rann and Oa are 
+currently being overrun by a vast army of Qwardian weaponeers.
+
+Stunned, the aliens are forced to return quickly to their respective 
+homes to fight wars upon their own soil that may take them centuries to 
+win, if they win them at all. For the most part, the only heroes left 
+on Earth are the non-powered variety, and most of these are more than 
+prepared to take off their masks and go public. Constantine explains to 
+them that under the guidance of the Batman, the Shadow and all the 
+rest, American society, free of government or a super-dictatorship, 
+will start to organize itself along different lines, so that it can 
+deal with the future without fear or anxiety. The days of the big 
+powers are over, and henceforth America will be built up from much 
+smaller and more flexible units, both socially and economically. The 
+story of Twilight ends with a delighted John Constantine standing at 
+the verge of a new utopia, free from the interferences of power, all 
+superfolk banished from Earth for ever.
+
+Of course, the story that he gives to Rip Hunter to take back to his 
+past self, while it gives the gist of all this, doesn't give the whole 
+story. This comes home to the younger Constantine right at the very end 
+of the series, when we wrap up the framing device.
+
+Somewhere earlier on in the continuity, we'll have a scene where 
+somebody says to Constantine that if he isn't careful, one day he'll 
+run into somebody craftier than himself and get into a whole mess of 
+trouble, to which Constantine replies confidently and with some 
+justification that there isn't anybody smarter than him.
+
+At the very end of the series, he finds out differently. Having 
+contacted all the hero groups and people involved and met with varying 
+responses, Constantine is disturbed. Has he failed? Some of the people 
+he warned have taken his advice, some haven't. Some he hasn't been able 
+to reach at all. He is still thinking of this event in the future as 
+being a terrible thing, and he fears that he might not have averted it 
+well enough. All he has for consolation is the knowledge that according 
+to Hunter, at some point in this future, he's going to meet a woman who 
+he will love very much for the rest of his life and who will fill a big 
+lonely hole in him. He even knows, thanks to Hunter, how he will meet 
+her. She'll come up to him in a bar and ask him for a light; their eyes 
+will meet and that will be that...
+
+While he is musing over the pros and cons of this Hunter delivers the 
+last part of his message from the future Constantine, which he has been 
+instructed not to give to the younger Constantine until after he has 
+warned as many people as he can. Surprised, Constantine reads what may 
+turn out to be the ultimate "Dear John" letter. Written by his future 
+self, the letter apologizes for using his younger self so cynically, 
+but assures John the younger that it's all for the best. The older 
+Constantine having the advantage of hindsight, can remember everything 
+that happened to his younger self, including meeting with Rip Hunter, 
+getting told a terrible story and then launching on a mission to warn 
+everybody affected of what waited in their future and how they might 
+avert it. The elder Constantine can even remember how that all worked 
+out: The world of Twilight came about anyway, often because of people's 
+actions in response to his warning. He can even remember getting a 
+letter handed to him, exactly the same as this one. He muses briefly 
+over the paradox of who really wrote the letter originally before 
+apologizing to his younger self again and consoling him with the fact 
+that a wonderful woman is waiting in his near future, and that she will 
+be worth everything.
+
+Reading the letter, the younger Constantine is furious. It has turned 
+out that there is someone craftier than John Constantine... namely, 
+John Constantine twenty years older and smarter. Constantine has been 
+conned by himself. Worse, since the person who tricked him is twenty 
+years away in an unreachable future, Constantine has no way of getting 
+vengeance upon the person who did this to him. Angered and enraged, he 
+goes into a bar and sits with the crumpled letter in his hand, getting 
+drunk. This is the end of the story, and we only have a final one-page 
+epilogue that takes us back to the beginning, now that we've come full 
+circle. The woman enters the bar and notices John, asking him for a 
+light. He looks up and their eyes meet. She is beautiful. He knows 
+instantly that he could love this woman forever. Knows who she is, 
+knows how happy him and all his future selves are going to be with 
+her... and finally, perversely, he understands how he can have his 
+revenge against his future self, how he can avert the circumstances 
+that lead to Twilight by throwing a small but important spanner into 
+the workings of destiny.
+
+"Excuse me, have you got a light?"
+
+Constantine looks at her and blinks twice before replying.
+
+"No. I'm sorry. I don't smoke."
+
+The woman shrugs, and after a while leaves the bar without speaking to 
+Constantine any further. After she's gone he sits, dead drunk at a 
+dimly lit corner table, and cries his cold and cynical heart out.
+
+And that's it. I hope you can see how it's meant to fulfill all the 
+requirements mentioned earlier. There are opportunities for new 
+characters to get a springboard, old characters to get a shot in the 
+arm and all the merchandising you can handle in terms of games and 
+stuff, at least as I see it. The warring Houses idea sounds ideal for 
+role-playing games, or maybe even a video game. The overall continuity 
+is hopefully enhanced without being damaged in any irreversible way, 
+and I think we might get a damn good yarn out of it in the bargain. 
+Anyway, I seem to have gone on far longer than I intended, so I better 
+wrap this up. I'll be looking forward with interest to hearing what any 
+of you have to say about all this when you've had a chance to read it. 
+If any sections are incomprehensible and need clarifying then please 
+give me a call.
+Return to Projects Page
+Return to Library
+Return to Museum Lobby
+
+
